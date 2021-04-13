@@ -1,0 +1,57 @@
+[33mcommit 69773d44a1cfb2aee37140a9eb5a932aab8618a2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Mon Apr 12 22:08:24 2021 -0500
+
+    Commit al master del blogspot en su version mas reciente
+
+ Blopost.html | 21 [32m++++++++++++++[m[31m-------[m
+ 1 file changed, 14 insertions(+), 7 deletions(-)
+
+[33mcommit 7b1ed610fd54d14c53549ee9259c80b897184fb5[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Mon Apr 12 21:53:54 2021 -0500
+
+    CommReemplazo de una historia por otra
+
+ historia.txt | 5 [32m++[m[31m---[m
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+[33mcommit 62e2b6aad53cc3095255743d0e1194c95aa4cb81[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Mon Apr 12 21:05:18 2021 -0500
+
+     Cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 24f28dc69d8d844e7671bc57750d03feeedbb50e[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Mon Apr 12 20:58:58 2021 -0500
+
+    Arranco mi proyecto real con HTML y CCS
+
+ Besitos.html    |  9 [32m+++++++++[m
+ Blopost.html    | 10 [32m++++++++++[m
+ CCS/estilos.ccs |  8 [32m++++++++[m
+ Xhamster.txt    |  1 [32m+[m
+ historia.txtx   |  0
+ 5 files changed, 28 insertions(+)
+
+[33mcommit 5808f8d912569f74502995695617d72df52e4fd2[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Sat Apr 10 22:07:06 2021 -0500
+
+    Cambios al archivo de historia  para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 5d7bb919c1b00692f74222648121da2bac87cf35[m
+Author: Dairo Almanza <dairohbk316@gmail.com>
+Date:   Sat Apr 10 22:02:20 2021 -0500
+
+    Este es el primer commi de Dairo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
